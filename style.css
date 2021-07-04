@@ -1,0 +1,166 @@
+/*background-color: rgba(252,206,1,1) ;*/
+/*background-color: rgba(0,154,179,1);*/
+* {
+	font-family: 'Optima';
+}
+
+body {
+    text-shadow: none !important;
+}
+
+.ui-navbar{
+    background-color: rgba(0,154,179,1) !important;
+}
+
+.header{
+    background-color: rgba(252,206,1,1) ;
+    height: 60px;
+    width: 100%;
+    clear: both;
+}
+
+.logo {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px;
+}
+/* login page */
+.ui-content {
+    color: rgba(0,154,179,1);
+}
+
+.brand {
+    padding-top: 10%;
+}
+
+/* map page */
+.left {
+    float: left;
+    width: 100px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.right {
+    float: right;
+    width: 100px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.button {
+    width: 30px;
+    padding: 8px;
+    margin: 10px;
+}
+
+#map {
+    height: 590px;
+}
+
+.textInBlack {
+    color: #000;
+}
+
+.loginButton {
+    width: 40%;
+    padding: 8px;
+    margin:30px auto;
+    background-color: rgba(252,206,1,1) ;
+}
+
+.loginP {
+    margin: 0;
+}
+
+.search {
+    padding: 10px;
+    background-color: rgba(0,154,179,1);
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-active {
+	color: #FCCE00;
+}
+
+.bird-img img {
+    width: 100%;
+}
+
+.face {
+    width: 50%;
+}
+
+.face img{
+    width: 100%;
+    border-radius: 50%;
+}
+
+.historyAll {
+    display: block;
+    width: 100%;
+}
+
+.historyOne {
+    display: inline-block;
+    width: 22%;
+    padding: 6px;
+    margin: 0;
+}
+
+.historyOne img {
+    width: 100%;
+}
+
+
+.birdOne textInBlack {
+    padding-top: 2%;
+}
+
+.birdFace {
+    display: inline-block;
+    width: 40%;
+    margin: 0;
+    padding:0;
+}
+
+.birdFace img{
+    width: 100%;
+}
+
+.birdDescription {
+    /*vertical-align: top;*/
+    display: inline-block;
+    width: 50%;
+    margin: 0;
+    padding-left: 6px;
+}
+
+/*Form Page Styling*/
+
+.form-styling {
+    text-align: center;
+    width: 90%;
+}
+
+.form-styling h2 {
+    text-align: center;
+    color: black;
+    font-weight: 900;
+}
+
+#left-card {
+    float: left;
+}
+
+#right-card {
+    float: right;
+}
+
